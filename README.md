@@ -1,2 +1,2 @@
 # Quara-Posts
-A simple Quora-like web page built with Node.js, Express, and EJS. Users can create, edit, view and delete posts.
+A simple Quora-like web page built with Node.js, Express, and EJS. Users can create, edit, view and delete the posts.
